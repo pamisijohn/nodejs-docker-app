@@ -8,7 +8,7 @@ app.use(express.json());
 app.get('/', (req, res) => {
   res.json({
     message: 'Hello from my Dockerized Node.js app!',
-    status: 'running',
+    status: 'running! all is great here',
     timestamp: new Date().toISOString()
   });
 });
