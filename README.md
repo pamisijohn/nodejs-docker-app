@@ -57,4 +57,4 @@ curl http://localhost:3000
 ![Live App](screenshots/live-app.png)
 
 ## Author
-Your Name — Your Docker Hub username: `your-dockerhub-username`
+John Pamisi — Your Docker Hub username: `pamisijohn`
